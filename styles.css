@@ -99,3 +99,9 @@ li:hover {
     background-color: #c82333;
     transform: translateY(-2px);
 }
+span {
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    margin: 0 auto;
+}
